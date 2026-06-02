@@ -1,6 +1,12 @@
-# 🤖 AlignHire — AI-Powered Interview Gap Analyzer
+# 🤖 AlignHire
 
-> An intelligent full-stack web application that compares your resume against a job description, detects skill gaps, generates ATS-optimized resumes, and prepares you for interviews — powered by Gemini AI.
+AI-Powered Resume & Job Description Analysis Platform
+
+Compare resumes against job descriptions, identify skill gaps, generate ATS-optimized resumes, and prepare for interviews using Gemini AI.
+
+## Why I Built AlignHire
+
+While applying for internships, I noticed that candidates often submit resumes without understanding how well they match a job description. I built AlignHire to provide actionable insights, identify skill gaps, and help applicants prepare more effectively.
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
