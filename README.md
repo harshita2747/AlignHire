@@ -24,11 +24,11 @@ While applying for internships, I noticed that candidates often submit resumes w
 |--------|--------|
 | Project Structure & Setup | ✅ Done |
 | JWT Authentication + Token Blacklisting | ✅ Done  |
-| Resume Upload & Parsing | 🟡 In Progress |
-| Skill Extraction Logic | 🟡 In Progress |
-| JD Parser | 🔴 Not Started |
-| AI-Based Skill Gap Detection (Gemini) | 🔴 Not Started |
-| Fit Score Calculator | 🔴 Not Started |
+| Resume Upload & Parsing |  ✅ Done |
+| Skill Extraction Logic |  ✅ Done|
+| JD Parser | 🟡 In Progress|
+| AI-Based Skill Gap Detection (Gemini) |  ✅ Done |
+| Fit Score Calculator |  ✅ Done|
 | ATS-Optimized Resume Generation | 🔴 Not Started |
 | Puppeteer PDF Creation | 🔴 Not Started |
 | Frontend UI (React.js) | 🟡 In Progress |
@@ -167,13 +167,13 @@ Blacklisted tokens rejected on all future requests
 
 - [x] Project setup & folder structure
 - [x] User registration & login (JWT)
-- [ ] JWT token blacklisting on logout
-- [ ] Resume upload (PDF / DOCX)
-- [ ] Resume text extraction & skill parsing
+- [x] JWT token blacklisting on logout
+- [x] Resume upload (PDF / DOCX)
+- [x] Resume text extraction & skill parsing
 - [ ] JD input (paste or URL)
-- [ ] Gemini AI — skill gap detection
-- [ ] Fit score calculation (0–100%)
-- [ ] Missing skills & keyword suggestions
+- [x] Gemini AI — skill gap detection
+- [x] Fit score calculation (0–100%)
+- [x] Missing skills & keyword suggestions
 - [ ] ATS-optimized resume generation
 - [ ] Puppeteer dynamic PDF export
 - [ ] Interview question generator
@@ -249,7 +249,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
 
 Made with ❤️ by **[Harshita](https://github.com/yourusername)**
 
