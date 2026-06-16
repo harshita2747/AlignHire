@@ -26,12 +26,12 @@ While applying for internships, I noticed that candidates often submit resumes w
 | JWT Authentication + Token Blacklisting | ✅ Done  |
 | Resume Upload & Parsing |  ✅ Done |
 | Skill Extraction Logic |  ✅ Done|
-| JD Parser | 🟡 In Progress|
+| JD Parser | ✅ Done|
 | AI-Based Skill Gap Detection (Gemini) |  ✅ Done |
 | Fit Score Calculator |  ✅ Done|
-| ATS-Optimized Resume Generation | 🔴 Not Started |
-| Puppeteer PDF Creation | 🔴 Not Started |
-| Frontend UI (React.js) | 🟡 In Progress |
+| ATS-Optimized Resume Generation | ✅ Done|
+| Puppeteer PDF Creation | 🔴 In Progress |
+| Frontend UI (React.js) | ✅ Done |
 
 ---
 
@@ -170,15 +170,15 @@ Blacklisted tokens rejected on all future requests
 - [x] JWT token blacklisting on logout
 - [x] Resume upload (PDF / DOCX)
 - [x] Resume text extraction & skill parsing
-- [ ] JD input (paste or URL)
+- [x] JD input (paste or URL)
 - [x] Gemini AI — skill gap detection
 - [x] Fit score calculation (0–100%)
 - [x] Missing skills & keyword suggestions
-- [ ] ATS-optimized resume generation
-- [ ] Puppeteer dynamic PDF export
-- [ ] Interview question generator
+- [x] ATS-optimized resume generation
+- [x] Puppeteer dynamic PDF export
+- [x] Interview question generator
 - [ ] Analysis history dashboard
-- [ ] Responsive React UI
+- [x] Responsive React UI
 
 
 
