@@ -30,7 +30,7 @@ While applying for internships, I noticed that candidates often submit resumes w
 | AI-Based Skill Gap Detection (Gemini) |  ✅ Done |
 | Fit Score Calculator |  ✅ Done|
 | ATS-Optimized Resume Generation | ✅ Done|
-| Puppeteer PDF Creation | 🔴 In Progress |
+| Puppeteer PDF Creation | ✅ Done|
 | Frontend UI (React.js) | ✅ Done |
 
 ---
@@ -177,7 +177,7 @@ Blacklisted tokens rejected on all future requests
 - [x] ATS-optimized resume generation
 - [x] Puppeteer dynamic PDF export
 - [x] Interview question generator
-- [ ] Analysis history dashboard
+- [x] Analysis history dashboard
 - [x] Responsive React UI
 
 
