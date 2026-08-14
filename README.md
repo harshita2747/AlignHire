@@ -8,7 +8,7 @@ Compare resumes against job descriptions, identify skill gaps, generate ATS-opti
 
 While applying for internships, I noticed that candidates often submit resumes without understanding how well they match a job description. I built AlignHire to provide actionable insights, identify skill gaps, and help applicants prepare more effectively.
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Status](https://img.shields.io/badge/status-%20done-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Built with](https://img.shields.io/badge/AI-Gemini-blue)
 ![Backend](https://img.shields.io/badge/backend-Node.js%20%2B%20Express-green)
